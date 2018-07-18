@@ -8,7 +8,7 @@
     "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.9.6",
+    "parcel-bundler": "^1.9.7",
     "node-sass": "^4.9.2",
     "typescript": "^2.9.2",
     "gh-pages": "^1.2.0"
